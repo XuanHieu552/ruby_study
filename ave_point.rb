@@ -25,6 +25,6 @@ puts sum
 puts "Điểm trung bình của 4 người"
 average = sum / 4
 puts average
-end
+
 
 
