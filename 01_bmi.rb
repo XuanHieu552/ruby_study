@@ -18,4 +18,3 @@ height = 1.55
 weight = 42
 BMI = weight / ( height * height )
 puts "chỉ sô cơ thể = " , BMI
-
